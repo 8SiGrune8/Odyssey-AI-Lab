@@ -5,12 +5,14 @@ Current Roadmap
 - Repository Structure
 - Documentation
 - Initial Architecture
+  
 🔄 Sprint 1
 - Install Ollama
 - Install ComfyUI
 - Configure Local AI Environment
 - First Production Pipeline
 - First Documentation
+  
 🔜 Next
 - Open WebUI
 - Whisper
